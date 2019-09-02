@@ -1,0 +1,2 @@
+# Ignore bower components and npm modules
+node_modules*
